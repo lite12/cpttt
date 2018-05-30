@@ -1,0 +1,10 @@
+<client key="123" mail="user1@ahmet.com">
+ <alert type="memory" limit="50%" />
+ <alert type="cpu" limit="20%" />
+ <alert type="processes" limit="50" />
+</client>
+<client key="1234" mail="user2@ahmet.com">
+ <alert type="memory" limit="50%" />
+ <alert type="cpu" limit="20%" />
+ <alert type="processes" limit="50" />
+</client>

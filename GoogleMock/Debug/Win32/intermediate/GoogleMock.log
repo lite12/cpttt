@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(372,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  gmock_main.cc
+  gmock-all.cc
+  Generating Code...
+  GoogleMock.vcxproj -> C:\Users\Sava\Downloads\10615467783938127_ahmet_emir_ercin_cpp_sysinfo\Source\GoogleMock\Debug\Win32\lib\GoogleMock.lib

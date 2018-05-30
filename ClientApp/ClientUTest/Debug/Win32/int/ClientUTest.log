@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(372,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  ApplicationTest.cpp
+  HTTPClient.cpp
+c:\users\sava\downloads\10615467783938127_ahmet_emir_ercin_cpp_sysinfo\source\packages\boost.1.65.1.0\lib\native\include\boost\move\detail\type_traits.hpp(757): error C2187: syntax error: ')' was unexpected here
+  c:\users\sava\downloads\10615467783938127_ahmet_emir_ercin_cpp_sysinfo\source\packages\boost.1.65.1.0\lib\native\include\boost\move\detail\type_traits.hpp(763): note: see reference to class template instantiation 'boost::move_detail::is_copy_constructible<T>' being compiled
+  Generating Code...

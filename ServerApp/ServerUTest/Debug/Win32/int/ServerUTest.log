@@ -1,0 +1,30 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(372,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  stdafx.cpp
+  UserStoreTest.cpp
+  JSONUtilTest.cpp
+  HTTPServerTest.cpp
+  AuthenticatorTest.cpp
+  AlertManagerTest.cpp
+  ServerUTest.cpp
+  UserStore.cpp
+c:\users\sava\downloads\10615467783938127_ahmet_emir_ercin_cpp_sysinfo\source\serverapp\src\userstore.cpp(26): warning C4101: 'e': unreferenced local variable
+  SMTPClient.cpp
+  ServerResponse.cpp
+  HTTPServer.cpp
+c:\users\sava\downloads\10615467783938127_ahmet_emir_ercin_cpp_sysinfo\source\serverapp\src\httpserver.cpp(30): warning C4101: 'e': unreferenced local variable
+c:\users\sava\downloads\10615467783938127_ahmet_emir_ercin_cpp_sysinfo\source\serverapp\src\httpserver.cpp(43): warning C4101: 'e': unreferenced local variable
+  Authenticator.cpp
+c:\users\sava\downloads\10615467783938127_ahmet_emir_ercin_cpp_sysinfo\source\serverapp\src\authenticator.cpp(24): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+  Application.cpp
+  AlertManager.cpp
+c:\users\sava\downloads\10615467783938127_ahmet_emir_ercin_cpp_sysinfo\source\serverapp\src\alertmanager.cpp(18): warning C4101: 'error': unreferenced local variable
+  Logger.cpp
+c:\users\sava\downloads\10615467783938127_ahmet_emir_ercin_cpp_sysinfo\source\sharedlibs\shared\logger.cpp(45): warning C4101: 'e': unreferenced local variable
+  JSONUtil.cpp
+c:\users\sava\downloads\10615467783938127_ahmet_emir_ercin_cpp_sysinfo\source\sharedlibs\shared\jsonutil.cpp(13): warning C4101: 'e': unreferenced local variable
+  AppConfiguration.cpp
+c:\users\sava\downloads\10615467783938127_ahmet_emir_ercin_cpp_sysinfo\source\sharedlibs\shared\appconfiguration.cpp(26): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  ServerUTest.vcxproj -> C:\Users\Sava\Downloads\10615467783938127_ahmet_emir_ercin_cpp_sysinfo\Source\ServerApp\ServerUTest\Debug\Win32\bin\ServerUTest.exe
+  ServerUTest.vcxproj -> C:\Users\Sava\Downloads\10615467783938127_ahmet_emir_ercin_cpp_sysinfo\Source\ServerApp\ServerUTest\Debug\Win32\bin\ServerUTest.pdb (Partial PDB)
